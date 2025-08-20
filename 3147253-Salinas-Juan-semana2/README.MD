@@ -1,0 +1,1 @@
+En el ejercicio de esta semana tuvimos que crear unos endpoints para productos creamos GETS Y POST para poder buscar los productos y tambien poder crearlos.
